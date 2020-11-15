@@ -1,9 +1,7 @@
 # My Special Guest 👨‍💼👩‍💼
 
-## Descrição em português 🇧🇷
-
 ### Link do vídeo
-* 
+* https://reccloud.com/pt/u/x3h7zyd
 
 ### Descrição
 * Trabalho desenvolvido na disciplina Laboratório de Desenvolvimento para dispositivos móveis.
@@ -26,19 +24,19 @@
 ### Próximas atualizações
 * Correção do bug no front-end do modal de edição.
 
-## Apresentação/Apresentation
-* Tela principal/Main screen
+## Apresentação
+* Tela principal
 
 
-![Tela Principal com as lista de convidados já cadastrados/Main screen whit the list of already registered guests]()
+![Tela Principal com as lista de convidados já cadastrados](https://github.com/DayaneCordeiro/Aplicativo_04_LDDM/blob/main/images/main_screen.PNG)
 
 
-* Modal de cadastro de convidado/Guest register modal
+* Modal de cadastro de convidado
 
 
-![]()
+![](https://github.com/DayaneCordeiro/Aplicativo_04_LDDM/blob/main/images/guest_register.PNG)
 
 
-* Modal de edição de convidado/Guest edition modal
+* Modal de edição de convidado
 
-![]()
+![](https://github.com/DayaneCordeiro/Aplicativo_04_LDDM/blob/main/images/guest_edition.PNG)
